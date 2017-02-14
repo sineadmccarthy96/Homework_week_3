@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.csis.lab03.MainActivity">
+
+    <!-- TextView displays a line of text-->
+    <!-- wrap_content makes size of widget to size of data inside it i.e. text !-->
+
+    <!-- Every resource must be given an id !-->
+
+    <!-- layout controls are always layout_XXXXX="" Play around with this !-->
+
+    <!-- Edit Text is a text field that will bring the keyboard up when tapped !-->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="On / Off"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Switch
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/switch1"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Freq to send"
+        android:id="@+id/freqText"
+        android:layout_alignBaseline="@+id/button1"
+        android:layout_alignBottom="@+id/button1"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send Freq to Pure Data"
+        android:id="@+id/button1"
+        android:layout_marginTop="31dp"
+        android:layout_marginStart="17dp"
+        android:layout_below="@+id/switch1"
+        android:layout_toEndOf="@+id/freqText" />
+
+    <SeekBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/slider1"
+        android:max="100"
+        android:layout_marginTop="32dp"
+        android:layout_below="@+id/button1"
+        android:layout_alignStart="@+id/button2"
+        android:layout_toStartOf="@+id/button1" />
+
+    <Button
+        android:text="button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button2"
+        android:layout_marginTop="13dp"
+        android:layout_below="@+id/button3"
+        android:layout_toStartOf="@+id/button1" />
+
+    <Button
+        android:text="button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button3"
+        android:layout_below="@+id/slider1"
+        android:layout_toEndOf="@+id/textView"
+        android:layout_marginTop="60dp" />
+
+
+</RelativeLayout>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_fc89220113728043be9ecef9e22838099f1dc95a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79334435f653b507dd64f120572d49d9620bbf49">
+        <dex dex="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.puredata.android-pd-core-1.0.2_6fb67643dbe0cb8aa11bdf241c554f5d6ab998f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_c067557d8825fd8f63609aa9e74bf8a8200d205e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_eae54773867348bbb90c5d9168f37396c26ed954/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_7f6e9c12a34d340703f280a8fc066ce0ab475431/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_20072b0e7da042565a476ddf754ecb321ab6732d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_927d35f14f20a5fd54631df8f6e851409806f72f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_97d2d717ad210e8931d7de646de47362cd72305e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_a3667f2634ddf2dba710940301c2eb52394c6af9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a35b73ff5c4ab6af57b21c03b9b3aa234d816a7f">
+        <dex dex="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.noisepages.nettoyeur-midi-1.0.0-rc1_2aaf0aeb6db549704219d33937841bcf03308b11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_4878ad696f95a126d6d7f7b01636b4d208fca01b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_41bd4dc2b2810f73160c701e5f2e98d70a10039b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e849bea8964e377aacb4f983d7e29a8060891bac">
+        <dex dex="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_55fe247cb6fb4db93ab2d23719a8bb3f18656150/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3cb01cb172abac631e35edfdcb4ba16d7ff312c9">
+        <dex dex="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e2e4794acb68e754e26aba0096c789df227e7874/classes.dex" />
+    </item>
+
+</items>
