@@ -115,7 +115,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="e849bea8964e377aacb4f983d7e29a8060891bac">
+        sha1="686a65d8815dcf909abeb8db9d7755c8bd852383">
         <dex dex="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_55fe247cb6fb4db93ab2d23719a8bb3f18656150/classes.dex" />
     </item>
     <item
@@ -124,7 +124,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="3cb01cb172abac631e35edfdcb4ba16d7ff312c9">
+        sha1="9c92a7366ab1143f4b8ad70640cc9209e02d3540">
         <dex dex="/Users/student/Documents/Lab03_Template-masterAlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e2e4794acb68e754e26aba0096c789df227e7874/classes.dex" />
     </item>
 
